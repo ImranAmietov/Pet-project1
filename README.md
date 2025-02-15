@@ -171,6 +171,12 @@ ORDER BY pay_date ASC;
 
 **ВИСНОВОК**: недофінансування закладу охорони здоров'я у січні.
 
+## Интерактивный дашборд
+
+[▶ Открыть Tableau Dashboard](https://your-github-username.github.io/your-repo/tableau.html)
+
+
+
 # Візуалізація даних у BI-системі та висновки
 
 
