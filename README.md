@@ -171,9 +171,7 @@ ORDER BY pay_date ASC;
 
 **ВИСНОВОК**: недофінансування закладу охорони здоров'я у січні.
 
-## Интерактивный дашборд
 
-[▶ Открыть Tableau Dashboard](https://github.com/ImranAmietov/Pet-project1/blob/cfbb0c9a4b9867caa559f3d3d2548ea7bc9adc00/tableau.html)
 
 
 
