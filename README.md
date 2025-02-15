@@ -173,7 +173,7 @@ ORDER BY pay_date ASC;
 
 ## Интерактивный дашборд
 
-[▶ Открыть Tableau Dashboard](https://your-github-username.github.io/your-repo/tableau.html)
+[▶ Открыть Tableau Dashboard]([https://your-github-username.github.io/your-repo/tableau.html](https://github.com/ImranAmietov/Pet-project1/blob/cfbb0c9a4b9867caa559f3d3d2548ea7bc9adc00/tableau.html))
 
 
 
