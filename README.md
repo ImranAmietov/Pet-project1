@@ -85,6 +85,8 @@ ORDER BY 1, 2 ;
 | 2023| 5  | 54100574965.56 |
 |...|...|...|
 
+![Tableau Dashboard](https://github.com/ImranAmietov/Pet-project1/blob/5a75d80713c46c3839ba12c2df498390107d4a1d/%D0%94%D0%B8%D0%BD%D0%B0%D0%BC%D1%96%D0%BA%D0%B0%20%D0%B2%D0%B8%D0%BF%D0%BB%D0%B0%D1%82%20%D0%B7%D0%B0%20%D0%BC%D1%96%D1%81%D1%8F%D1%86%D1%8F%D0%BC%D0%B8.png)
+
 # **Ковзна середня виплат за 3 місяці**
 ```SQL 
 SELECT 
